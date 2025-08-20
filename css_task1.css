@@ -1,0 +1,43 @@
+body{
+    background-image: url(https://images.pexels.com/photos/268533/pexels-photo-268533.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+h1{
+    text-align: center;
+    color: aliceblue;
+}
+h2{
+    text-align: center;
+    color: rgb(102, 102, 102);
+}
+#container{
+    width: 80%;
+    background-color: rgb(235, 235, 235);
+    margin:0px 10%;
+    
+
+}
+label{
+    float: right;
+}
+
+#button{
+    color:aliceblue;
+    background-color: rgb(13, 110, 253);
+    margin: 0px 45%;
+    border-radius: 7px;
+    
+}
+#button:hover{
+    background-color: green;
+}
+*{
+    color: rgb(85, 85, 85);
+    padding: 5px;
+}
+
+table{
+        margin-left: 100px;
+}
